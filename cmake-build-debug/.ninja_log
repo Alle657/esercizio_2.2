@@ -1,0 +1,6 @@
+# ninja log v5
+1	88	7487231690667156	build.ninja	726f553af1f6e2da
+1	39	7487228867006955	CMakeFiles/untitled.dir/esercizio_2.2.c.obj	e836e57cf3bf145f
+39	186	7487228868382826	untitled.exe	4c41001491e93a39
+0	44	7487231727608340	CMakeFiles/untitled.dir/esercizio_2.2.c.obj	6a58c55d2ec48fbb
+45	183	7487231728903904	untitled.exe	4c41001491e93a39
